@@ -34,9 +34,9 @@
 		<table id="table_level" class="table-bordered">
 			<thead > 
 				<tr class="row">
-					<th class="col-xs-3">Id</th>
-					<th class="col-xs-4">Name</th>
-					<th class="col-xs-5">Action</th>
+					<th class="col-xs-3">ID</th>
+					<th class="col-xs-4">NAME</th>
+					<th class="col-xs-5">ACTION</th>
 				</tr>
 			</thead>
 			<tbody>
