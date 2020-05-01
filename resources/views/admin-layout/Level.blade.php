@@ -47,9 +47,9 @@
 					<td class="col-xs-3"><?php echo $value->id ?></td>
 					<td class="col-xs-4"> <?php echo $value->namelevel ?></td>
 					<td class="col-xs-5">
-						<a href="#" ><button class="btn btn-sm btn-danger"><i class="glyphicon glyphicon-fire">delete</i></button></a>
-						<a href="#"><button class="btn btn-sm btn-success"><i class=" glyphicon glyphicon-edit">edit</i></button></a>
-						<a href="#"><button class="btn btn-sm btn-warning"><i class=" glyphicon glyphicon-file">detail</i></button></a>
+						<a href="#" ><button class="btn btn-sm btn-danger"><i class="glyphicon glyphicon-fire">Delete</i></button></a>
+						<a href="#"><button class="btn btn-sm btn-success"><i class=" glyphicon glyphicon-edit">Edit</i></button></a>
+						<a href="#"><button class="btn btn-sm btn-warning"><i class=" glyphicon glyphicon-file">Detail</i></button></a>
 
 					</td>
 				</tr>
