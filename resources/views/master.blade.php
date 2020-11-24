@@ -16,6 +16,10 @@
 </head>
 <body>
 	<h1>nguyen van hoa</h1>
+    <h1>nguyen van hoa</h1>
+    <h1>nguyen van hoa</h1>
+    <h1>nguyen van hoa</h1>
+    <h1>nguyen van hoa</h1>
 	<button id="btn1">click</button>
 	<table id="hoa1">
 		
